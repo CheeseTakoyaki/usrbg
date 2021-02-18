@@ -3923,3 +3923,10 @@
 [data-user-id*="728446410290233466"] {
     --user-background: url('https://i.imgur.com/CL6gHVe.jpeg');
 }
+
+/*CheeseTakoyaki#2374*/
+
+[user_by_bdfdb*="300831387278245889"],
+[data-user-id*="300831387278245889"] {
+    --user-background: url('https://cdn.discordapp.com/attachments/808175634807390258/812023326305681468/da538bac62ee5e233cd82bb75b0d3c47ba0cdc03.png');
+}
